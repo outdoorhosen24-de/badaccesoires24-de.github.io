@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/jokey", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jokey-medikamentenschrank-1-jokey-4138772-1.jpg":"\u002Fassets\u002Fimages\u002Fjokey-medikamentenschrank-1-jokey-4138772-1.webp"}}],fetch:{},mutations:void 0});
