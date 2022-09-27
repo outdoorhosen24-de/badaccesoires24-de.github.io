@@ -1,17 +1,94 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "keuco",
+        "name": "Keuco",
+        "slug": "keuco",
+        "productCategory": "Keuco",
+        "localThumb": "/assets/images/hersteller/keuco.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "baliv",
+        "name": "baliv",
+        "slug": "baliv",
+        "productCategory": "baliv",
+        "localThumb": "/assets/images/hersteller/baliv.webp"
+    },
+    {
+        "key": "fackelmann",
+        "name": "Fackelmann",
+        "slug": "fackelmann",
+        "productCategory": "Fackelmann",
+        "localThumb": "/assets/images/hersteller/fackelmann.webp"
+    },
+    {
+        "key": "hansgrohe",
+        "name": "Hansgrohe",
+        "slug": "hansgrohe",
+        "productCategory": "Hansgrohe",
+        "localThumb": "/assets/images/hersteller/hansgrohe.webp"
+    },
+    {
+        "key": "grohe",
+        "name": "Grohe",
+        "slug": "grohe",
+        "productCategory": "Grohe",
+        "localThumb": "/assets/images/hersteller/grohe.webp"
+    },
+    {
+        "key": "schulte",
+        "name": "Schulte",
+        "slug": "schulte",
+        "productCategory": "Schulte",
+        "localThumb": "/assets/images/hersteller/schulte.webp"
+    },
+    {
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
+    },
+    {
+        "key": "kleine wolke",
+        "name": "Kleine Wolke",
+        "slug": "kleine-wolke",
+        "productCategory": "Kleine Wolke",
+        "localThumb": "/assets/images/hersteller/kleine-wolke.webp"
+    },
+    {
+        "key": "tiger",
+        "name": "Tiger",
+        "slug": "tiger",
+        "productCategory": "Tiger",
+        "localThumb": "/assets/images/hersteller/tiger.webp"
+    },
+    {
+        "key": "lux",
+        "name": "LUX",
+        "slug": "lux",
+        "productCategory": "LUX",
+        "localThumb": "/assets/images/hersteller/lux.webp"
+    },
+    {
+        "key": "ximax",
+        "name": "Ximax",
+        "slug": "ximax",
+        "productCategory": "Ximax",
+        "localThumb": "/assets/images/hersteller/ximax.webp"
+    },
+    {
+        "key": "msv",
+        "name": "MSV",
+        "slug": "msv",
+        "productCategory": "MSV",
+        "localThumb": "/assets/images/hersteller/msv.webp"
+    },
+    {
+        "key": "pelipal",
+        "name": "Pelipal",
+        "slug": "pelipal",
+        "productCategory": "Pelipal",
+        "localThumb": "/assets/images/hersteller/pelipal.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +98,80 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "bürstenmann",
+        "name": "Bürstenmann",
+        "slug": "buerstenmann",
+        "productCategory": "Bürstenmann",
+        "localThumb": "/assets/images/hersteller/buerstenmann.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "loomaid",
+        "name": "Loomaid",
+        "slug": "loomaid",
+        "productCategory": "Loomaid",
+        "localThumb": "/assets/images/hersteller/loomaid.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "tesa",
+        "name": "Tesa",
+        "slug": "tesa",
+        "productCategory": "Tesa",
+        "localThumb": "/assets/images/hersteller/tesa.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "jokey",
+        "name": "Jokey",
+        "slug": "jokey",
+        "productCategory": "Jokey",
+        "localThumb": "/assets/images/hersteller/jokey.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "spirella",
+        "name": "Spirella",
+        "slug": "spirella",
+        "productCategory": "Spirella",
+        "localThumb": "/assets/images/hersteller/spirella.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "spirella elements",
+        "name": "Spirella Elements",
+        "slug": "spirella-elements",
+        "productCategory": "Spirella Elements",
+        "localThumb": "/assets/images/hersteller/spirella-elements.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "starlyf",
+        "name": "Starlyf",
+        "slug": "starlyf",
+        "productCategory": "Starlyf",
+        "localThumb": "/assets/images/hersteller/starlyf.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "leifheit",
+        "name": "Leifheit",
+        "slug": "leifheit",
+        "productCategory": "Leifheit",
+        "localThumb": "/assets/images/hersteller/leifheit.webp"
+    },
+    {
+        "key": "hewi",
+        "name": "HEWI",
+        "slug": "hewi",
+        "productCategory": "HEWI",
+        "localThumb": "/assets/images/hersteller/hewi.webp"
+    },
+    {
+        "key": "baliv moss green trend",
+        "name": "baliv Moss Green trend",
+        "slug": "baliv-moss-green-trend",
+        "productCategory": "baliv Moss Green trend",
+        "localThumb": "/assets/images/hersteller/baliv-moss-green-trend.webp"
     }
 ]
