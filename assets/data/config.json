@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "badaccesoires24.de",
+    "hostname": "https://www.badaccesoires24.de/",
+    "email": "badaccesoires24.desurrealnetworks.io",
+    "organization": "badaccesoires24.de",
+    "logoText": "Badaccesoires24.de",
+    "title": "Badaccessoires",
+    "subline": "Der Online Shop f\u00fcr Badaccessoires",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8358970",
+        "7085574",
+        "7002678",
+        "8188914",
+        "6013833",
+        "3181971"
+    ],
+    "winnerProducts": [
+        "8678849",
+        "7774094",
+        "9862541"
+    ],
+    "featuredCategories": [
+        "Badhelfer",
+        "Kosmetikeimer & W\u00e4schetonnen",
+        "Seifenspender & Becher",
+        "Badhelfer",
+        "Duschvorh\u00e4nge",
+        "Badhelfer"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badaccessoires",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop findest du alles, was das Herz begehrt, wenn es um Badaccessoires geht. Von Handt\u00fcchern \u00fcber Seifenspender bis hin zu Badematten ist alles dabei. Wir legen besonderen Wert auf Qualit\u00e4t und bieten daher nur Produkte von renommierten Marken an. Zudem sind unsere Preise unschlagbar. Schau doch einfach mal vorbei und \u00fcberzeuge dich selbst!",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Badaccessoires: Die besten Shops f\u00fcr Badaccessoires",
+            "metaDescription": "Im Shop findest du alles, was das Bad sch\u00f6ner macht. Von Handt\u00fcchern \u00fcber Duschvorh\u00e4nge bis hin zu Badematten und Seifenspender.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Badaccessoires: Die schlechtesten Accessoires f\u00fcr Ihr Badezimmer",
+                    "text": "Badaccessoires sind ein wesentlicher Bestandteil der Badgestaltung. Sie k\u00f6nnen das Aussehen und die Funktionalit\u00e4t eines Badezimmers erheblich verbessern. Badaccessoires umfassen alles, von Handt\u00fcchern und Badematten \u00fcber Duschvorh\u00e4nge und Seifenspender bis hin zu Badewannen, WC-Brillen und Waschbecken.\n\nDie Auswahl der richtigen Badaccessoires ist entscheidend f\u00fcr ein sch\u00f6nes und funktionales Badezimmer. Handt\u00fccher und Badematten sollten zum Stil des Badezimmers passen. Duschvorh\u00e4nge und Seifenspender k\u00f6nnen in verschiedenen Farben, Formen und Gr\u00f6\u00dfen erh\u00e4ltlich sein. Badewannen, WC-Brillen und Waschbecken sollten so ausgew\u00e4hlt werden, dass sie zum restlichen Interieur des Badezimmers passen.\n\nDie richtige Beleuchtung ist ebenfalls wichtig f\u00fcr ein sch\u00f6nes Badezimmer. Die Beleuchtung sollte so gew\u00e4hlt werden, dass sie das gesamte Badezimmer erleuchtet und eine angenehme Atmosph\u00e4re schafft.\n\nBadaccessoires k\u00f6nnen in verschiedenen Gesch\u00e4ften, online oder in Katalogen erworben werden. Die Preise f\u00fcr Badaccessoires k\u00f6nnen sehr unterschiedlich sein, je nachdem, wo sie gekauft werden. Es ist wichtig, sich vor dem Kauf \u00fcber die verschiedenen Optionen zu informieren, um das beste Angebot zu finden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badaccessoires Shop",
+            "metaDescription": "Im Shop findest du alles, was du f\u00fcr dein Bad brauchst - von Accessoires bis hin zu M\u00f6beln.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badaccessoires-Hersteller",
+            "metaDescription": "Badaccessoires-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Accessoires f\u00fcr das Badezimmer.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badaccessoires f\u00fcr $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badaccessoires f\u00fcr Ihr Badezimmer. $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badaccessoires f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Badaccessoires: Handt\u00fccher, Duschvorh\u00e4nge, Badezimmerteppiche & mehr. Kaufe jetzt bei OTTO!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist die erste Wahl f\u00fcr Badaccessoires. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Accessoires f\u00fcr Ihr Badezimmer.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Badaccessoires",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Badaccessoires Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Badaccessoires Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
