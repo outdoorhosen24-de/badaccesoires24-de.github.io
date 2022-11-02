@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "badaccesoires24.de",
     "hostname": "https://www.badaccesoires24.de/",
     "email": "badaccesoires24.desurrealnetworks.io",
     "organization": "badaccesoires24.de",
     "logoText": "Badaccesoires24.de",
     "title": "Badaccessoires",
-    "subline": "Der Online Shop f\u00fcr Badaccessoires",
+    "subline": "Der Online Shop für Badaccessoires",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,10 +29,10 @@
     ],
     "featuredCategories": [
         "Badhelfer",
-        "Kosmetikeimer & W\u00e4schetonnen",
+        "Kosmetikeimer & Wäschetonnen",
         "Seifenspender & Becher",
         "Badhelfer",
-        "Duschvorh\u00e4nge",
+        "Duschvorhänge",
         "Badhelfer"
     ],
     "socialMediaAccounts": [],
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badaccessoires",
-        "featureText": "In unserem Shop findest du alles, was das Herz begehrt, wenn es um Badaccessoires geht. Von Handt\u00fcchern \u00fcber Seifenspender bis hin zu Badematten ist alles dabei. Wir legen besonderen Wert auf Qualit\u00e4t und bieten daher nur Produkte von renommierten Marken an. Zudem sind unsere Preise unschlagbar. Schau doch einfach mal vorbei und \u00fcberzeuge dich selbst!",
+        "featureText": "In unserem Shop findest du alles, was das Herz begehrt, wenn es um Badaccessoires geht. Von Handtüchern über Seifenspender bis hin zu Badematten ist alles dabei. Wir legen besonderen Wert auf Qualität und bieten daher nur Produkte von renommierten Marken an. Zudem sind unsere Preise unschlagbar. Schau doch einfach mal vorbei und überzeuge dich selbst!",
         "index": {
-            "title": "Badaccessoires: Die besten Shops f\u00fcr Badaccessoires",
-            "metaDescription": "Im Shop findest du alles, was das Bad sch\u00f6ner macht. Von Handt\u00fcchern \u00fcber Duschvorh\u00e4nge bis hin zu Badematten und Seifenspender.",
+            "title": "Badaccessoires: Die besten Shops für Badaccessoires",
+            "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtüchern über Duschvorhänge bis hin zu Badematten und Seifenspender.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Badaccessoires: Die schlechtesten Accessoires f\u00fcr Ihr Badezimmer",
-                    "text": "Badaccessoires sind ein wesentlicher Bestandteil der Badgestaltung. Sie k\u00f6nnen das Aussehen und die Funktionalit\u00e4t eines Badezimmers erheblich verbessern. Badaccessoires umfassen alles, von Handt\u00fcchern und Badematten \u00fcber Duschvorh\u00e4nge und Seifenspender bis hin zu Badewannen, WC-Brillen und Waschbecken.\n\nDie Auswahl der richtigen Badaccessoires ist entscheidend f\u00fcr ein sch\u00f6nes und funktionales Badezimmer. Handt\u00fccher und Badematten sollten zum Stil des Badezimmers passen. Duschvorh\u00e4nge und Seifenspender k\u00f6nnen in verschiedenen Farben, Formen und Gr\u00f6\u00dfen erh\u00e4ltlich sein. Badewannen, WC-Brillen und Waschbecken sollten so ausgew\u00e4hlt werden, dass sie zum restlichen Interieur des Badezimmers passen.\n\nDie richtige Beleuchtung ist ebenfalls wichtig f\u00fcr ein sch\u00f6nes Badezimmer. Die Beleuchtung sollte so gew\u00e4hlt werden, dass sie das gesamte Badezimmer erleuchtet und eine angenehme Atmosph\u00e4re schafft.\n\nBadaccessoires k\u00f6nnen in verschiedenen Gesch\u00e4ften, online oder in Katalogen erworben werden. Die Preise f\u00fcr Badaccessoires k\u00f6nnen sehr unterschiedlich sein, je nachdem, wo sie gekauft werden. Es ist wichtig, sich vor dem Kauf \u00fcber die verschiedenen Optionen zu informieren, um das beste Angebot zu finden."
+                    "title": "Badaccessoires: Die schlechtesten Accessoires für Ihr Badezimmer",
+                    "text": "Badaccessoires sind ein wesentlicher Bestandteil der Badgestaltung. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badaccessoires umfassen alles, von Handtüchern und Badematten über Duschvorhänge und Seifenspender bis hin zu Badewannen, WC-Brillen und Waschbecken.\n\nDie Auswahl der richtigen Badaccessoires ist entscheidend für ein schönes und funktionales Badezimmer. Handtücher und Badematten sollten zum Stil des Badezimmers passen. Duschvorhänge und Seifenspender können in verschiedenen Farben, Formen und Größen erhältlich sein. Badewannen, WC-Brillen und Waschbecken sollten so ausgewählt werden, dass sie zum restlichen Interieur des Badezimmers passen.\n\nDie richtige Beleuchtung ist ebenfalls wichtig für ein schönes Badezimmer. Die Beleuchtung sollte so gewählt werden, dass sie das gesamte Badezimmer erleuchtet und eine angenehme Atmosphäre schafft.\n\nBadaccessoires können in verschiedenen Geschäften, online oder in Katalogen erworben werden. Die Preise für Badaccessoires können sehr unterschiedlich sein, je nachdem, wo sie gekauft werden. Es ist wichtig, sich vor dem Kauf über die verschiedenen Optionen zu informieren, um das beste Angebot zu finden."
                 }
             ]
         },
         "shop": {
             "title": "Badaccessoires Shop",
-            "metaDescription": "Im Shop findest du alles, was du f\u00fcr dein Bad brauchst - von Accessoires bis hin zu M\u00f6beln.",
+            "metaDescription": "Im Shop findest du alles, was du für dein Bad brauchst - von Accessoires bis hin zu Möbeln.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Badaccessoires-Hersteller",
-            "metaDescription": "Badaccessoires-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Accessoires f\u00fcr das Badezimmer.",
+            "metaDescription": "Badaccessoires-Hersteller bietet eine große Auswahl an hochwertigen Accessoires für das Badezimmer.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Badaccessoires f\u00fcr $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badaccessoires f\u00fcr Ihr Badezimmer. $KATEGORIE.",
+        "defaultTitle": "Badaccessoires für $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badaccessoires für Ihr Badezimmer. $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badaccessoires f\u00fcr $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Badaccessoires: Handt\u00fccher, Duschvorh\u00e4nge, Badezimmerteppiche & mehr. Kaufe jetzt bei OTTO!",
+        "defaultTitle": "Badaccessoires für $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Badaccessoires: Handtücher, Duschvorhänge, Badezimmerteppiche & mehr. Kaufe jetzt bei OTTO!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist die erste Wahl f\u00fcr Badaccessoires. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Accessoires f\u00fcr Ihr Badezimmer.",
+        "defaultMetaDescription": "$HERSTELLER ist die erste Wahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
