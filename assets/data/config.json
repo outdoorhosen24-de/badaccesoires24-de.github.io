@@ -51,12 +51,15 @@
             "title": "Badaccessoires: Die besten Shops für Badaccessoires",
             "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtüchern über Duschvorhänge bis hin zu Badematten und Seifenspender.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Badaccessoires: Die schlechtesten Accessoires für Ihr Badezimmer",
-                    "text": "Badaccessoires sind ein wesentlicher Bestandteil der Badgestaltung. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badaccessoires umfassen alles, von Handtüchern und Badematten über Duschvorhänge und Seifenspender bis hin zu Badewannen, WC-Brillen und Waschbecken.\n\nDie Auswahl der richtigen Badaccessoires ist entscheidend für ein schönes und funktionales Badezimmer. Handtücher und Badematten sollten zum Stil des Badezimmers passen. Duschvorhänge und Seifenspender können in verschiedenen Farben, Formen und Größen erhältlich sein. Badewannen, WC-Brillen und Waschbecken sollten so ausgewählt werden, dass sie zum restlichen Interieur des Badezimmers passen.\n\nDie richtige Beleuchtung ist ebenfalls wichtig für ein schönes Badezimmer. Die Beleuchtung sollte so gewählt werden, dass sie das gesamte Badezimmer erleuchtet und eine angenehme Atmosphäre schafft.\n\nBadaccessoires können in verschiedenen Geschäften, online oder in Katalogen erworben werden. Die Preise für Badaccessoires können sehr unterschiedlich sein, je nachdem, wo sie gekauft werden. Es ist wichtig, sich vor dem Kauf über die verschiedenen Optionen zu informieren, um das beste Angebot zu finden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Badaccessoires: Die schlechtesten Accessoires für Ihr Badezimmer",
+                        "text": "Badaccessoires sind ein wesentlicher Bestandteil der Badgestaltung. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badaccessoires umfassen alles, von Handtüchern und Badematten über Duschvorhänge und Seifenspender bis hin zu Badewannen, WC-Brillen und Waschbecken.\n\nDie Auswahl der richtigen Badaccessoires ist entscheidend für ein schönes und funktionales Badezimmer. Handtücher und Badematten sollten zum Stil des Badezimmers passen. Duschvorhänge und Seifenspender können in verschiedenen Farben, Formen und Größen erhältlich sein. Badewannen, WC-Brillen und Waschbecken sollten so ausgewählt werden, dass sie zum restlichen Interieur des Badezimmers passen.\n\nDie richtige Beleuchtung ist ebenfalls wichtig für ein schönes Badezimmer. Die Beleuchtung sollte so gewählt werden, dass sie das gesamte Badezimmer erleuchtet und eine angenehme Atmosphäre schafft.\n\nBadaccessoires können in verschiedenen Geschäften, online oder in Katalogen erworben werden. Die Preise für Badaccessoires können sehr unterschiedlich sein, je nachdem, wo sie gekauft werden. Es ist wichtig, sich vor dem Kauf über die verschiedenen Optionen zu informieren, um das beste Angebot zu finden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badaccessoires Shop",
