@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "badaccesoires24.de",
     "hostname": "https://www.badaccesoires24.de/",
     "email": "badaccesoires24.de@surrealnetworks.io",
     "organization": "badaccesoires24.de",
     "logoText": "Badaccesoires24.de",
     "title": "Badaccessoires",
-    "subline": "Der Online Shop für Badaccessoires",
+    "subline": "Finde passendes und nützliches Zubehör für dein Badezimmer ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badaccessoires",
-        "featureText": "In unserem Shop findest du alles, was das Herz begehrt, wenn es um Badaccessoires geht. Von Handtüchern über Seifenspender bis hin zu Badematten ist alles dabei. Wir legen besonderen Wert auf Qualität und bieten daher nur Produkte von renommierten Marken an. Zudem sind unsere Preise unschlagbar. Schau doch einfach mal vorbei und überzeuge dich selbst!",
+        "featureText": "Wir freuen uns das du zu unserem Shop gefunden hast. Hier auf badaccessoires.de findest du alles, was du an Zubehör für dein Badezimmer benötigst. Wir haben Produkte aus der Kategorie Seifenspender, Handtuchhalter, Wäschetonnen, Duschvorhänge, Badhelfer, Kosmetikeimer, uvm. Wir achten stets darauf, dass wir qualitative Produkte in unserem Sortiment pflegen, damit unter anderem auch der Sicherheit im Bad nichts nachsteht.",
         "index": {
-            "title": "Badaccessoires: Die besten Shops für Badaccessoires",
-            "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtüchern über Duschvorhänge bis hin zu Badematten und Seifenspender.",
+            "title": "Badaccessoires: Die besten Accessoires für dein Bad",
+            "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtuchhaltern über Seifenspender bis hin zu Duschstangen und Wäschetonnen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Badaccessoires Shop",
-            "metaDescription": "Im Shop findest du alles, was du für dein Bad brauchst - von Accessoires bis hin zu Möbeln.",
+            "title": "Zubehör Shop für's Bad",
+            "metaDescription": "Finde das richtige Zubehör für dein Badezimmer - In unserem Shop findest du Seifenspender und Becher, Handtuchhalter, Kosmetikeimer, uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badaccessoires-Hersteller",
-            "metaDescription": "Badaccessoires-Hersteller bietet eine große Auswahl an hochwertigen Accessoires für das Badezimmer.",
+            "title": "Überblick aller Hersteller von Bad Zubehör",
+            "metaDescription": "Auflistung aller Hersteller für Bad Accessoires und Zubehör sowie deren Produkte. Top Hersteller, top Produkte, top Preise.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Badaccessoires für $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badaccessoires für Ihr Badezimmer. $KATEGORIE.",
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Badaccessoires für Ihr Badezimmer aus der Kategorie $KATEGORIE. Top Preise und schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badaccessoires für $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Badaccessoires: Handtücher, Duschvorhänge, Badezimmerteppiche & mehr. Kaufe jetzt bei OTTO!",
+        "defaultTitle": "$KATEGORIE | günstig kaufen",
+        "defaultMetaDescription": "Die besten Produkte aus der Kategorie $KATEGORIE. Wir führen nur die besten Produkte und das zu einem Best-Preis. $KATEGORIE online bestellen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist die erste Wahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer.",
+        "defaultTitle": "$HERSTELLER | Shop",
+        "defaultMetaDescription": "$HERSTELLER ist die erste Markenwahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer von $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {
