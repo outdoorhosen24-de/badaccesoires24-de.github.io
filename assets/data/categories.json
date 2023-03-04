@@ -16,21 +16,21 @@
     {
         "key": "ausstattungsserien & drahtkörbe",
         "name": "Ausstattungsserien & Drahtkörbe",
-        "slug": "ausstattungsserien-drahtkorbe",
+        "slug": "ausstattungsserien-drahtkoerbe",
         "productCategory": "Ausstattungsserien & Drahtkörbe",
         "subCategories": []
     },
     {
         "key": "wc-bürsten & handtuchhalter",
         "name": "WC-Bürsten & Handtuchhalter",
-        "slug": "wc-bursten-handtuchhalter",
+        "slug": "wc-buersten-handtuchhalter",
         "productCategory": "WC-Bürsten & Handtuchhalter",
         "subCategories": []
     },
     {
         "key": "kosmetikeimer & wäschetonnen",
         "name": "Kosmetikeimer & Wäschetonnen",
-        "slug": "kosmetikeimer-waschetonnen",
+        "slug": "kosmetikeimer-waeschetonnen",
         "productCategory": "Kosmetikeimer & Wäschetonnen",
         "subCategories": []
     },
@@ -44,7 +44,7 @@
     {
         "key": "duschvorhänge",
         "name": "Duschvorhänge",
-        "slug": "duschvorhange",
+        "slug": "duschvorhaenge",
         "productCategory": "Duschvorhänge",
         "subCategories": []
     },
