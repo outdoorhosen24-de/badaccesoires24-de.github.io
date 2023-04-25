@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "badaccesoires24.de",
-    "hostname": "https://www.badaccesoires24.de/",
-    "email": "badaccesoires24.de@surrealnetworks.io",
-    "organization": "badaccesoires24.de",
-    "logoText": "Badaccesoires24.de",
-    "title": "Badaccessoires",
-    "subline": "Finde passendes und nützliches Zubehör für dein Badezimmer ",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "8358970",
-        "7085574",
-        "7002678",
-        "8188914",
-        "6013833",
-        "3181971"
-    ],
-    "winnerProducts": [
-        "8678849",
-        "7774094",
-        "9862541"
-    ],
-    "featuredCategories": [
-        "Badhelfer",
-        "Kosmetikeimer & Wäschetonnen",
-        "Seifenspender & Becher",
-        "Badhelfer",
-        "Duschvorhänge",
-        "Badhelfer"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Badaccessoires",
-        "featureText": "Wir freuen uns das du zu unserem Shop gefunden hast. Hier auf badaccessoires.de findest du alles, was du an Zubehör für dein Badezimmer benötigst. Wir haben Produkte aus der Kategorie Seifenspender, Handtuchhalter, Wäschetonnen, Duschvorhänge, Badhelfer, Kosmetikeimer, uvm. Wir achten stets darauf, dass wir qualitative Produkte in unserem Sortiment pflegen, damit unter anderem auch der Sicherheit im Bad nichts nachsteht.",
-        "index": {
-            "title": "Badaccessoires: Die besten Accessoires für dein Bad",
-            "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtuchhaltern über Seifenspender bis hin zu Duschstangen und Wäschetonnen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Badaccessoires24!",
-                        "text": "Badaccessoires24 ist Ihr Online-Shop für alles, was Sie für Ihr Badezimmer benötigen. Wir bieten eine große Auswahl an Produkten, die Ihr Badezimmer zu einem komfortablen und stilvollen Ort machen. Von Seifenspendern und Bechern über Sicherheitsprodukte im Bad bis hin zu Ausstattungsserien und Drahtkörben, WC-Bürsten und Handtuchhaltern, Kosmetikeimern und Wäschetonnen, Duschstangen und Duschvorhängen, Badhelfern und vielem mehr - bei uns finden Sie alles, was Sie für Ihr Badezimmer benötigen. Wir legen großen Wert auf Qualität und Funktionalität bei allen unseren Produkten. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen zuverlässige und langlebige Leistung. Wir sind stolz darauf, Ihnen eine breite Palette an Designs und Stilen anzubieten, die Ihrem persönlichen Geschmack entsprechen.Wir möchten, dass Sie bei uns einkaufen, weil Sie sich wohl fühlen und uns vertrauen. Daher sind wir bestrebt, Ihnen den bestmöglichen Kundenservice zu bieten. Unser Kundensupport-Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen und Anliegen zu helfen.Also, warum warten Sie noch? Stöbern Sie jetzt in unserem Online-Shop und finden Sie die perfekten Badaccessoires für Ihr Zuhause! Wir freuen uns darauf, Ihnen dabei zu helfen, Ihr Badezimmer zu einem Raum zu machen, in dem Sie sich wohl fühlen und entspannen können."
-                    },
-                    {
-                        "title": "Seifenspender & Becher",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/seifenspender-becher/\" title=\"Seifenspender & Becher\">Seifenspender & Becher</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Ob Sie nach einem eleganten Seifenspender oder einem praktischen Becher suchen, wir haben die passenden Produkte für Sie. Wir bieten eine Vielzahl von Designs und Materialien, damit Sie das perfekte Accessoire für Ihr Badezimmer finden können. Unsere Seifenspender und Becher sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Stöbern Sie jetzt durch unsere Kategorie Seifenspender & Becher und finden Sie das perfekte Accessoire für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Sicherheit im Bad",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/sicherheit-im-bad/\" title=\"Sicherheit im Bad\">Sicherheit im Bad</a> finden Sie alles, was Sie für ein sicheres und komfortables Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu rutschfesten Matten und Duschstühlen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Produkten aus der Kategorie Sicherheit im Bad."
-                    },
-                    {
-                        "title": "Ausstattungsserien & Drahtkörbe",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/ausstattungsserien-drahtkoerbe/\" title=\"Ausstattungsserien & Drahtkörbe\">Ausstattungsserien & Drahtkörbe</a> bietet Ihnen eine große Auswahl an Accessoires und Aufbewahrungslösungen für Ihr Badezimmer. Von praktischen Drahtkörben bis hin zu eleganten Ausstattungsserien, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren Ausstattungsserien & Drahtkörben und schaffen Sie mehr Stauraum für Ihre Badezimmerartikel."
-                    },
-                    {
-                        "title": "WC-Bürsten & Handtuchhalter",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/wc-buersten-handtuchhalter/\" title=\"WC-Bürsten & Handtuchhalter\">WC-Bürsten & Handtuchhalter</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Von praktischen WC-Bürsten bis hin zu eleganten Handtuchhaltern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren WC-Bürsten & Handtuchhaltern. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Kosmetikeimer & Wäschetonnen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/kosmetikeimer-waeschetonnen/\" title=\"Kosmetikeimer & Wäschetonnen\">Kosmetikeimer & Wäschetonnen</a> finden Sie alles, was Sie für eine ordentliche und aufgeräumte Badezimmerumgebung benötigen. Von praktischen Kosmetikeimern bis hin zu stilvollen Wäschetonnen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer mehr Ordnung und Übersichtlichkeit mit unseren Kosmetikeimern & Wäschetonnen."
-                    },
-                    {
-                        "title": "Duschstangen",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/duschstangen/\" title=\"Duschstangen\">Duschstangen</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen Duschstangen bis hin zu eleganten Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschstangen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
-                    },
-                    {
-                        "title": "Duschvorhänge",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/duschvorhaenge/\" title=\"Duschvorhänge\">Duschvorhänge</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen und funktionalen Duschvorhängen bis hin zu eleganten und stilvollen Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschvorhängen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
-                    },
-                    {
-                        "title": "Badhelfer",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/badhelfer/\" title=\"Badhelfer\">Badhelfer</a> finden Sie alles, was Sie für ein komfortables und praktisches Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu Ablageflächen und Duschhockern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Badhelfern."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Zubehör Shop für's Bad",
-            "metaDescription": "Finde das richtige Zubehör für dein Badezimmer - In unserem Shop findest du Seifenspender und Becher, Handtuchhalter, Kosmetikeimer, uvm.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Überblick aller Hersteller von Bad Zubehör",
-            "metaDescription": "Auflistung aller Hersteller für Bad Accessoires und Zubehör sowie deren Produkte. Top Hersteller, top Produkte, top Preise.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig kaufen",
-        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Badaccessoires für Ihr Badezimmer aus der Kategorie $KATEGORIE. Top Preise und schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "badaccesoires24.de",
+  "hostname": "https://www.badaccesoires24.de/",
+  "email": "badaccesoires24.de@surrealnetworks.io",
+  "organization": "badaccesoires24.de",
+  "logoText": "Badaccesoires24.de",
+  "title": "Badaccessoires",
+  "subline": "Finde passendes und n\u00fctzliches Zubeh\u00f6r f\u00fcr dein Badezimmer ",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "8358970",
+    "7085574",
+    "7002678",
+    "8188914",
+    "6013833",
+    "3181971"
+  ],
+  "winnerProducts": [
+    "8678849",
+    "7774094",
+    "9862541"
+  ],
+  "featuredCategories": [
+    "Badhelfer",
+    "Kosmetikeimer & W\u00e4schetonnen",
+    "Seifenspender & Becher",
+    "Badhelfer",
+    "Duschvorh\u00e4nge",
+    "Badhelfer"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Badaccessoires",
+    "featureText": "Wir freuen uns das du zu unserem Shop gefunden hast. Hier auf badaccessoires.de findest du alles, was du an Zubeh\u00f6r f\u00fcr dein Badezimmer ben\u00f6tigst. Wir haben Produkte aus der Kategorie Seifenspender, Handtuchhalter, W\u00e4schetonnen, Duschvorh\u00e4nge, Badhelfer, Kosmetikeimer, uvm. Wir achten stets darauf, dass wir qualitative Produkte in unserem Sortiment pflegen, damit unter anderem auch der Sicherheit im Bad nichts nachsteht.",
+    "index": {
+      "title": "Badaccessoires: Die besten Accessoires f\u00fcr dein Bad",
+      "metaDescription": "Im Shop findest du alles, was das Bad sch\u00f6ner macht. Von Handtuchhaltern \u00fcber Seifenspender bis hin zu Duschstangen und W\u00e4schetonnen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Badaccessoires24!",
+            "text": "Badaccessoires24 ist Ihr Online-Shop f\u00fcr alles, was Sie f\u00fcr Ihr Badezimmer ben\u00f6tigen. Wir bieten eine gro\u00dfe Auswahl an Produkten, die Ihr Badezimmer zu einem komfortablen und stilvollen Ort machen. Von Seifenspendern und Bechern \u00fcber Sicherheitsprodukte im Bad bis hin zu Ausstattungsserien und Drahtk\u00f6rben, WC-B\u00fcrsten und Handtuchhaltern, Kosmetikeimern und W\u00e4schetonnen, Duschstangen und Duschvorh\u00e4ngen, Badhelfern und vielem mehr - bei uns finden Sie alles, was Sie f\u00fcr Ihr Badezimmer ben\u00f6tigen. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Funktionalit\u00e4t bei allen unseren Produkten. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen zuverl\u00e4ssige und langlebige Leistung. Wir sind stolz darauf, Ihnen eine breite Palette an Designs und Stilen anzubieten, die Ihrem pers\u00f6nlichen Geschmack entsprechen.Wir m\u00f6chten, dass Sie bei uns einkaufen, weil Sie sich wohl f\u00fchlen und uns vertrauen. Daher sind wir bestrebt, Ihnen den bestm\u00f6glichen Kundenservice zu bieten. Unser Kundensupport-Team steht Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei Fragen und Anliegen zu helfen.Also, warum warten Sie noch? St\u00f6bern Sie jetzt in unserem Online-Shop und finden Sie die perfekten Badaccessoires f\u00fcr Ihr Zuhause! Wir freuen uns darauf, Ihnen dabei zu helfen, Ihr Badezimmer zu einem Raum zu machen, in dem Sie sich wohl f\u00fchlen und entspannen k\u00f6nnen."
+          },
+          {
+            "title": "Seifenspender & Becher",
+            "text": "Unsere Kategorie <a href=\"/kategorie/seifenspender-becher/\" title=\"Seifenspender & Becher\">Seifenspender & Becher</a> bietet eine breite Auswahl an Accessoires f\u00fcr Ihr Badezimmer. Ob Sie nach einem eleganten Seifenspender oder einem praktischen Becher suchen, wir haben die passenden Produkte f\u00fcr Sie. Wir bieten eine Vielzahl von Designs und Materialien, damit Sie das perfekte Accessoire f\u00fcr Ihr Badezimmer finden k\u00f6nnen. Unsere Seifenspender und Becher sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverl\u00e4ssigkeit. St\u00f6bern Sie jetzt durch unsere Kategorie Seifenspender & Becher und finden Sie das perfekte Accessoire f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Sicherheit im Bad",
+            "text": "In unserer Kategorie <a href=\"/kategorie/sicherheit-im-bad/\" title=\"Sicherheit im Bad\">Sicherheit im Bad</a> finden Sie alles, was Sie f\u00fcr ein sicheres und komfortables Badezimmer ben\u00f6tigen. Von Griffen und Haltegriffen bis hin zu rutschfesten Matten und Duschst\u00fchlen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen f\u00fcr maximale Sicherheit und Stabilit\u00e4t im Badezimmer. Vermeiden Sie St\u00fcrze und Unf\u00e4lle und sorgen Sie f\u00fcr mehr Komfort und Sicherheit im Badezimmer mit unseren Produkten aus der Kategorie Sicherheit im Bad."
+          },
+          {
+            "title": "Ausstattungsserien & Drahtk\u00f6rbe",
+            "text": "Unsere Kategorie <a href=\"/kategorie/ausstattungsserien-drahtkoerbe/\" title=\"Ausstattungsserien & Drahtk\u00f6rbe\">Ausstattungsserien & Drahtk\u00f6rbe</a> bietet Ihnen eine gro\u00dfe Auswahl an Accessoires und Aufbewahrungsl\u00f6sungen f\u00fcr Ihr Badezimmer. Von praktischen Drahtk\u00f6rben bis hin zu eleganten Ausstattungsserien, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren Ausstattungsserien & Drahtk\u00f6rben und schaffen Sie mehr Stauraum f\u00fcr Ihre Badezimmerartikel."
+          },
+          {
+            "title": "WC-B\u00fcrsten & Handtuchhalter",
+            "text": "Unsere Kategorie <a href=\"/kategorie/wc-buersten-handtuchhalter/\" title=\"WC-B\u00fcrsten & Handtuchhalter\">WC-B\u00fcrsten & Handtuchhalter</a> bietet eine breite Auswahl an Accessoires f\u00fcr Ihr Badezimmer. Von praktischen WC-B\u00fcrsten bis hin zu eleganten Handtuchhaltern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverl\u00e4ssigkeit. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren WC-B\u00fcrsten & Handtuchhaltern. St\u00f6bern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Kosmetikeimer & W\u00e4schetonnen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/kosmetikeimer-waeschetonnen/\" title=\"Kosmetikeimer & W\u00e4schetonnen\">Kosmetikeimer & W\u00e4schetonnen</a> finden Sie alles, was Sie f\u00fcr eine ordentliche und aufger\u00e4umte Badezimmerumgebung ben\u00f6tigen. Von praktischen Kosmetikeimern bis hin zu stilvollen W\u00e4schetonnen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer mehr Ordnung und \u00dcbersichtlichkeit mit unseren Kosmetikeimern & W\u00e4schetonnen."
+          },
+          {
+            "title": "Duschstangen",
+            "text": "Unsere Kategorie <a href=\"/kategorie/duschstangen/\" title=\"Duschstangen\">Duschstangen</a> bietet Ihnen eine gro\u00dfe Auswahl an Accessoires f\u00fcr Ihre Dusche. Von praktischen Duschstangen bis hin zu eleganten Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverl\u00e4ssigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschstangen. St\u00f6bern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire f\u00fcr Ihre Dusche."
+          },
+          {
+            "title": "Duschvorh\u00e4nge",
+            "text": "Unsere Kategorie <a href=\"/kategorie/duschvorhaenge/\" title=\"Duschvorh\u00e4nge\">Duschvorh\u00e4nge</a> bietet Ihnen eine gro\u00dfe Auswahl an Accessoires f\u00fcr Ihre Dusche. Von praktischen und funktionalen Duschvorh\u00e4ngen bis hin zu eleganten und stilvollen Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverl\u00e4ssigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschvorh\u00e4ngen. St\u00f6bern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire f\u00fcr Ihre Dusche."
+          },
+          {
+            "title": "Badhelfer",
+            "text": "In unserer Kategorie <a href=\"/kategorie/badhelfer/\" title=\"Badhelfer\">Badhelfer</a> finden Sie alles, was Sie f\u00fcr ein komfortables und praktisches Badezimmer ben\u00f6tigen. Von Griffen und Haltegriffen bis hin zu Ablagefl\u00e4chen und Duschhockern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen f\u00fcr maximale Sicherheit und Stabilit\u00e4t im Badezimmer. Vermeiden Sie St\u00fcrze und Unf\u00e4lle und sorgen Sie f\u00fcr mehr Komfort und Sicherheit im Badezimmer mit unseren Badhelfern."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | günstig kaufen",
-        "defaultMetaDescription": "Die besten Produkte aus der Kategorie $KATEGORIE. Wir führen nur die besten Produkte und das zu einem Best-Preis. $KATEGORIE online bestellen.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Zubeh\u00f6r Shop f\u00fcr's Bad",
+      "metaDescription": "Finde das richtige Zubeh\u00f6r f\u00fcr dein Badezimmer - In unserem Shop findest du Seifenspender und Becher, Handtuchhalter, Kosmetikeimer, uvm.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Shop",
-        "defaultMetaDescription": "$HERSTELLER ist die erste Markenwahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer von $HERSTELLER.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Badaccessoires",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Badaccessoires Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Badaccessoires Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "\u00dcberblick aller Hersteller von Bad Zubeh\u00f6r",
+      "metaDescription": "Auflistung aller Hersteller f\u00fcr Bad Accessoires und Zubeh\u00f6r sowie deren Produkte. Top Hersteller, top Produkte, top Preise.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig kaufen",
+    "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Badaccessoires f\u00fcr Ihr Badezimmer aus der Kategorie $KATEGORIE. Top Preise und schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | g\u00fcnstig kaufen",
+    "defaultMetaDescription": "Die besten Produkte aus der Kategorie $KATEGORIE. Wir f\u00fchren nur die besten Produkte und das zu einem Best-Preis. $KATEGORIE online bestellen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Shop",
+    "defaultMetaDescription": "$HERSTELLER ist die erste Markenwahl f\u00fcr Badaccessoires. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Accessoires f\u00fcr Ihr Badezimmer von $HERSTELLER.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Badaccessoires",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Badaccessoires Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Badaccessoires Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
