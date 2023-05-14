@@ -1,232 +1,239 @@
 {
-  "configIsReady": true,
-  "domain": "badaccesoires24.de",
-  "hostname": "https://www.badaccesoires24.de/",
-  "email": "badaccesoires24.de@surrealnetworks.io",
-  "organization": "badaccesoires24.de",
-  "logoText": "Badaccesoires24.de",
-  "title": "Badaccessoires",
-  "subline": "Finde passendes und nützliches Zubehör für dein Badezimmer ",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "8358970",
-    "7085574",
-    "7002678",
-    "8188914",
-    "6013833",
-    "3181971"
-  ],
-  "winnerProducts": [
-    "8678849",
-    "7774094",
-    "9862541"
-  ],
-  "featuredCategories": [
-    "Badhelfer",
-    "Kosmetikeimer & Wäschetonnen",
-    "Seifenspender & Becher",
-    "Badhelfer",
-    "Duschvorhänge",
-    "Badhelfer"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Badaccessoires",
-    "featureText": "Wir freuen uns das du zu unserem Shop gefunden hast. Hier auf badaccessoires.de findest du alles, was du an Zubehör für dein Badezimmer benötigst. Wir haben Produkte aus der Kategorie Seifenspender, Handtuchhalter, Wäschetonnen, Duschvorhänge, Badhelfer, Kosmetikeimer, uvm. Wir achten stets darauf, dass wir qualitative Produkte in unserem Sortiment pflegen, damit unter anderem auch der Sicherheit im Bad nichts nachsteht.",
-    "index": {
-      "title": "Badaccessoires: Die besten Accessoires für dein Bad",
-      "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtuchhaltern über Seifenspender bis hin zu Duschstangen und Wäschetonnen.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Badaccessoires24!",
-            "text": "Badaccessoires24 ist Ihr Online-Shop für alles, was Sie für Ihr Badezimmer benötigen. Wir bieten eine große Auswahl an Produkten, die Ihr Badezimmer zu einem komfortablen und stilvollen Ort machen. Von Seifenspendern und Bechern über Sicherheitsprodukte im Bad bis hin zu Ausstattungsserien und Drahtkörben, WC-Bürsten und Handtuchhaltern, Kosmetikeimern und Wäschetonnen, Duschstangen und Duschvorhängen, Badhelfern und vielem mehr - bei uns finden Sie alles, was Sie für Ihr Badezimmer benötigen. Wir legen großen Wert auf Qualität und Funktionalität bei allen unseren Produkten. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen zuverlässige und langlebige Leistung. Wir sind stolz darauf, Ihnen eine breite Palette an Designs und Stilen anzubieten, die Ihrem persönlichen Geschmack entsprechen.Wir möchten, dass Sie bei uns einkaufen, weil Sie sich wohl fühlen und uns vertrauen. Daher sind wir bestrebt, Ihnen den bestmöglichen Kundenservice zu bieten. Unser Kundensupport-Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen und Anliegen zu helfen.Also, warum warten Sie noch? Stöbern Sie jetzt in unserem Online-Shop und finden Sie die perfekten Badaccessoires für Ihr Zuhause! Wir freuen uns darauf, Ihnen dabei zu helfen, Ihr Badezimmer zu einem Raum zu machen, in dem Sie sich wohl fühlen und entspannen können."
-          },
-          {
-            "title": "Seifenspender & Becher",
-            "text": "Unsere Kategorie <a href=\"/kategorie/seifenspender-becher/\" title=\"Seifenspender & Becher\">Seifenspender & Becher</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Ob Sie nach einem eleganten Seifenspender oder einem praktischen Becher suchen, wir haben die passenden Produkte für Sie. Wir bieten eine Vielzahl von Designs und Materialien, damit Sie das perfekte Accessoire für Ihr Badezimmer finden können. Unsere Seifenspender und Becher sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Stöbern Sie jetzt durch unsere Kategorie Seifenspender & Becher und finden Sie das perfekte Accessoire für Ihr Badezimmer."
-          },
-          {
-            "title": "Sicherheit im Bad",
-            "text": "In unserer Kategorie <a href=\"/kategorie/sicherheit-im-bad/\" title=\"Sicherheit im Bad\">Sicherheit im Bad</a> finden Sie alles, was Sie für ein sicheres und komfortables Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu rutschfesten Matten und Duschstühlen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Produkten aus der Kategorie Sicherheit im Bad."
-          },
-          {
-            "title": "Ausstattungsserien & Drahtkörbe",
-            "text": "Unsere Kategorie <a href=\"/kategorie/ausstattungsserien-drahtkoerbe/\" title=\"Ausstattungsserien & Drahtkörbe\">Ausstattungsserien & Drahtkörbe</a> bietet Ihnen eine große Auswahl an Accessoires und Aufbewahrungslösungen für Ihr Badezimmer. Von praktischen Drahtkörben bis hin zu eleganten Ausstattungsserien, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren Ausstattungsserien & Drahtkörben und schaffen Sie mehr Stauraum für Ihre Badezimmerartikel."
-          },
-          {
-            "title": "WC-Bürsten & Handtuchhalter",
-            "text": "Unsere Kategorie <a href=\"/kategorie/wc-buersten-handtuchhalter/\" title=\"WC-Bürsten & Handtuchhalter\">WC-Bürsten & Handtuchhalter</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Von praktischen WC-Bürsten bis hin zu eleganten Handtuchhaltern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren WC-Bürsten & Handtuchhaltern. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihr Badezimmer."
-          },
-          {
-            "title": "Kosmetikeimer & Wäschetonnen",
-            "text": "In unserer Kategorie <a href=\"/kategorie/kosmetikeimer-waeschetonnen/\" title=\"Kosmetikeimer & Wäschetonnen\">Kosmetikeimer & Wäschetonnen</a> finden Sie alles, was Sie für eine ordentliche und aufgeräumte Badezimmerumgebung benötigen. Von praktischen Kosmetikeimern bis hin zu stilvollen Wäschetonnen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer mehr Ordnung und Übersichtlichkeit mit unseren Kosmetikeimern & Wäschetonnen."
-          },
-          {
-            "title": "Duschstangen",
-            "text": "Unsere Kategorie <a href=\"/kategorie/duschstangen/\" title=\"Duschstangen\">Duschstangen</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen Duschstangen bis hin zu eleganten Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschstangen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
-          },
-          {
-            "title": "Duschvorhänge",
-            "text": "Unsere Kategorie <a href=\"/kategorie/duschvorhaenge/\" title=\"Duschvorhänge\">Duschvorhänge</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen und funktionalen Duschvorhängen bis hin zu eleganten und stilvollen Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschvorhängen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
-          },
-          {
-            "title": "Badhelfer",
-            "text": "In unserer Kategorie <a href=\"/kategorie/badhelfer/\" title=\"Badhelfer\">Badhelfer</a> finden Sie alles, was Sie für ein komfortables und praktisches Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu Ablageflächen und Duschhockern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Badhelfern."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "badaccesoires24.de",
+    "hostname": "https://www.badaccesoires24.de/",
+    "email": "badaccesoires24.de@surrealnetworks.io",
+    "organization": "badaccesoires24.de",
+    "logoText": "Badaccesoires24.de",
+    "title": "Badaccessoires",
+    "subline": "Finde passendes und nützliches Zubehör für dein Badezimmer ",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "8358970",
+        "7085574",
+        "7002678",
+        "8188914",
+        "6013833",
+        "3181971"
+    ],
+    "winnerProducts": [
+        "8678849",
+        "7774094",
+        "9862541"
+    ],
+    "featuredCategories": [
+        "Badhelfer",
+        "Kosmetikeimer & Wäschetonnen",
+        "Seifenspender & Becher",
+        "Badhelfer",
+        "Duschvorhänge",
+        "Badhelfer"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Badaccessoires",
+        "featureText": "Wir freuen uns das du zu unserem Shop gefunden hast. Hier auf badaccessoires.de findest du alles, was du an Zubehör für dein Badezimmer benötigst. Wir haben Produkte aus der Kategorie Seifenspender, Handtuchhalter, Wäschetonnen, Duschvorhänge, Badhelfer, Kosmetikeimer, uvm. Wir achten stets darauf, dass wir qualitative Produkte in unserem Sortiment pflegen, damit unter anderem auch der Sicherheit im Bad nichts nachsteht.",
+        "index": {
+            "title": "Badaccessoires: Die besten Accessoires für dein Bad",
+            "metaDescription": "Im Shop findest du alles, was das Bad schöner macht. Von Handtuchhaltern über Seifenspender bis hin zu Duschstangen und Wäschetonnen.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Badaccessoires24!",
+                        "text": "Badaccessoires24 ist Ihr Online-Shop für alles, was Sie für Ihr Badezimmer benötigen. Wir bieten eine große Auswahl an Produkten, die Ihr Badezimmer zu einem komfortablen und stilvollen Ort machen. Von Seifenspendern und Bechern über Sicherheitsprodukte im Bad bis hin zu Ausstattungsserien und Drahtkörben, WC-Bürsten und Handtuchhaltern, Kosmetikeimern und Wäschetonnen, Duschstangen und Duschvorhängen, Badhelfern und vielem mehr - bei uns finden Sie alles, was Sie für Ihr Badezimmer benötigen. Wir legen großen Wert auf Qualität und Funktionalität bei allen unseren Produkten. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen zuverlässige und langlebige Leistung. Wir sind stolz darauf, Ihnen eine breite Palette an Designs und Stilen anzubieten, die Ihrem persönlichen Geschmack entsprechen.Wir möchten, dass Sie bei uns einkaufen, weil Sie sich wohl fühlen und uns vertrauen. Daher sind wir bestrebt, Ihnen den bestmöglichen Kundenservice zu bieten. Unser Kundensupport-Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen und Anliegen zu helfen.Also, warum warten Sie noch? Stöbern Sie jetzt in unserem Online-Shop und finden Sie die perfekten Badaccessoires für Ihr Zuhause! Wir freuen uns darauf, Ihnen dabei zu helfen, Ihr Badezimmer zu einem Raum zu machen, in dem Sie sich wohl fühlen und entspannen können."
+                    },
+                    {
+                        "title": "Seifenspender & Becher",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/seifenspender-becher/\" title=\"Seifenspender & Becher\">Seifenspender & Becher</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Ob Sie nach einem eleganten Seifenspender oder einem praktischen Becher suchen, wir haben die passenden Produkte für Sie. Wir bieten eine Vielzahl von Designs und Materialien, damit Sie das perfekte Accessoire für Ihr Badezimmer finden können. Unsere Seifenspender und Becher sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Stöbern Sie jetzt durch unsere Kategorie Seifenspender & Becher und finden Sie das perfekte Accessoire für Ihr Badezimmer."
+                    },
+                    {
+                        "title": "Sicherheit im Bad",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/sicherheit-im-bad/\" title=\"Sicherheit im Bad\">Sicherheit im Bad</a> finden Sie alles, was Sie für ein sicheres und komfortables Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu rutschfesten Matten und Duschstühlen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Produkten aus der Kategorie Sicherheit im Bad."
+                    },
+                    {
+                        "title": "Ausstattungsserien & Drahtkörbe",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/ausstattungsserien-drahtkoerbe/\" title=\"Ausstattungsserien & Drahtkörbe\">Ausstattungsserien & Drahtkörbe</a> bietet Ihnen eine große Auswahl an Accessoires und Aufbewahrungslösungen für Ihr Badezimmer. Von praktischen Drahtkörben bis hin zu eleganten Ausstattungsserien, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren Ausstattungsserien & Drahtkörben und schaffen Sie mehr Stauraum für Ihre Badezimmerartikel."
+                    },
+                    {
+                        "title": "WC-Bürsten & Handtuchhalter",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/wc-buersten-handtuchhalter/\" title=\"WC-Bürsten & Handtuchhalter\">WC-Bürsten & Handtuchhalter</a> bietet eine breite Auswahl an Accessoires für Ihr Badezimmer. Von praktischen WC-Bürsten bis hin zu eleganten Handtuchhaltern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrem Badezimmer den letzten Schliff mit unseren WC-Bürsten & Handtuchhaltern. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihr Badezimmer."
+                    },
+                    {
+                        "title": "Kosmetikeimer & Wäschetonnen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/kosmetikeimer-waeschetonnen/\" title=\"Kosmetikeimer & Wäschetonnen\">Kosmetikeimer & Wäschetonnen</a> finden Sie alles, was Sie für eine ordentliche und aufgeräumte Badezimmerumgebung benötigen. Von praktischen Kosmetikeimern bis hin zu stilvollen Wäschetonnen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen Langlebigkeit und Stil. Verleihen Sie Ihrem Badezimmer mehr Ordnung und Übersichtlichkeit mit unseren Kosmetikeimern & Wäschetonnen."
+                    },
+                    {
+                        "title": "Duschstangen",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/duschstangen/\" title=\"Duschstangen\">Duschstangen</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen Duschstangen bis hin zu eleganten Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschstangen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
+                    },
+                    {
+                        "title": "Duschvorhänge",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/duschvorhaenge/\" title=\"Duschvorhänge\">Duschvorhänge</a> bietet Ihnen eine große Auswahl an Accessoires für Ihre Dusche. Von praktischen und funktionalen Duschvorhängen bis hin zu eleganten und stilvollen Modellen, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren Ihnen Langlebigkeit und Zuverlässigkeit. Verleihen Sie Ihrer Dusche den letzten Schliff mit unseren Duschvorhängen. Stöbern Sie jetzt durch unsere Kategorie und finden Sie das perfekte Accessoire für Ihre Dusche."
+                    },
+                    {
+                        "title": "Badhelfer",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/badhelfer/\" title=\"Badhelfer\">Badhelfer</a> finden Sie alles, was Sie für ein komfortables und praktisches Badezimmer benötigen. Von Griffen und Haltegriffen bis hin zu Ablageflächen und Duschhockern, wir haben alles, was Sie brauchen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und sorgen für maximale Sicherheit und Stabilität im Badezimmer. Vermeiden Sie Stürze und Unfälle und sorgen Sie für mehr Komfort und Sicherheit im Badezimmer mit unseren Badhelfern."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Zubehör Shop für's Bad",
+            "metaDescription": "Finde das richtige Zubehör für dein Badezimmer - In unserem Shop findest du Seifenspender und Becher, Handtuchhalter, Kosmetikeimer, uvm.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Überblick aller Hersteller von Bad Zubehör",
+            "metaDescription": "Auflistung aller Hersteller für Bad Accessoires und Zubehör sowie deren Produkte. Top Hersteller, top Produkte, top Preise.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Zubehör Shop für's Bad",
-      "metaDescription": "Finde das richtige Zubehör für dein Badezimmer - In unserem Shop findest du Seifenspender und Becher, Handtuchhalter, Kosmetikeimer, uvm.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Überblick aller Hersteller von Bad Zubehör",
-      "metaDescription": "Auflistung aller Hersteller für Bad Accessoires und Zubehör sowie deren Produkte. Top Hersteller, top Produkte, top Preise.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig kaufen",
-    "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Badaccessoires für Ihr Badezimmer aus der Kategorie $KATEGORIE. Top Preise und schnelle Lieferung.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "8678849",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Badaccessoires für Ihr Badezimmer aus der Kategorie $KATEGORIE. Top Preise und schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Wenko Wandhaken Universal Chrom 2er-Pack",
-              "text": "<p class=\"justify\">Der Wenko Wandhaken Universal Chrom ist ein hochwertiger und praktischer Helfer für Ihr Zuhause. Dieses 2er-Pack ist ideal für diejenigen, die nach einer platzsparenden und dekorativen Lösung zum Aufhängen von Handtüchern, Bademänteln, Geschirrtüchern oder Topflappen in Bad, Gäste-WC und im gesamten Haushalt suchen. Hergestellt aus chromfarbenem Kunststoff, bieten diese Wandhaken eine langlebige und stilvolle Lösung für Ihre Bedürfnisse.</p><p class=\"justify\">Mit einer einfachen Anbringung sind diese Wandhaken kinderleicht zu installieren. Entfernen Sie einfach die Schutzfolie und bringen Sie den Haken an der gewünschten Stelle an. Diese selbstklebenden Wandhaken halten sicher auf glatten und festen Oberflächen und verleihen Ihrem Heim Eleganz und Funktionalität. Die Universalgenies können sowohl in der Küche als auch im Badezimmer verwendet werden und sind somit eine vielseitige Ergänzung für Ihren Haushalt.</p><p class=\"justify\">Die Marke Wenko ist bekannt für ihre Qualitätsprodukte für das Bad und den gesamten Haushalt. Mit über 154 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeugen zufriedene Kunden von der hohen Qualität und Langlebigkeit dieser Wandhaken. Das 2er-Pack Wenko Wandhaken Universal Chrom ist eine kostengünstige Lösung für alle, die eine praktische und stilvolle Möglichkeit zum Aufhängen ihrer Utensilien suchen.</p><p class=\"justify\">Mit einem Preis von nur 3,89 Euro ist dieses Wenko Wandhaken Universal Chrom 2er-Pack eine erschwingliche Lösung, um Ordnung und Stil in Ihrem Zuhause zu erhalten. Gönnen Sie sich diese hochwertigen Wandhaken und erleben Sie, wie einfach es ist, Ihre Handtücher, Kleidungsstücke und andere Gegenstände ordentlich und griffbereit aufzubewahren.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7774094",
-        "seo": {
-          "texts": [
-            {
-              "title": "Wenko Badschemel Secura Premium Anthrazit",
-              "text": "<p class=\"justify\">Der Wenko Badschemel Secura Premium Anthrazit ist das perfekte Produkt zur Sicherheit im Bad. Hergestellt von der innovativen Marke Wenko, zeichnet sich dieser Badschemel durch seine Stabilität und Rutschfestigkeit aus. Er besteht aus stabilem Kunststoff und ist in der trendigen Farbe Anthrazit erhältlich, wodurch er sich in jedes Badezimmer stilvoll einfügt.</p><p class=\"justify\">Die rutschhemmende, strukturierte und große Trittfläche bietet eine hervorragende Standsicherheit, auch auf feuchten Böden. Die stylisch geformten Alu-Füße sind besonders stabil und rutschhemmend. Dank der großen Öffnung auf der Sitzfläche kann das Wasser problemlos abfließen, sodass auch die Hygiene gewährleistet ist.</p><p class=\"justify\">Der Wenko Badschemel Secura Premium Anthrazit ist nach den neuesten Vorschriften durch den TÜV getestet und TÜV/GS zertifiziert. Er ist zu 100 % rostfrei und bis zu 130 kg belastbar. Dies macht ihn zu einer idealen Lösung für alle Altersgruppen und Bedürfnisse.</p><p class=\"justify\">Die Marke Wenko ist bekannt für ihre innovativen Produkte im Bereich Bad, Küche und Wohnen. Ihre raffinierten und geschmackvollen Accessoires sind nicht nur praktisch, sondern auch ästhetisch ansprechend. Entdecken Sie die Vielfalt der cleveren und platzsparenden Einrichtungskollektionen von Wenko und richten Sie Ihren Wohnraum nach Ihren individuellen Wünschen ein.</p><p class=\"justify\">Bitte beachten Sie, dass abgebildete Armaturen oder Badaccessoires nicht im Lieferumfang des Wenko Badschemel Secura Premium Anthrazit enthalten sind. Genießen Sie die Kombination aus Funktionalität und Stil, indem Sie diesen hochwertigen Badschemel in Ihrem Badezimmer verwenden.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9862541",
-        "seo": {
-          "texts": [
-            {
-              "title": "AquaSu Duschstange Quintao zum Kleben oder Bohren 60 cm Chrom",
-              "text": "<p class=\"justify\">Die AquaSu Duschstange Quintao bringt Eleganz und Funktionalität in Ihr Badezimmer. Mit einer Länge von 60 cm und einer ansprechenden Chromoberfläche passt diese Duschstange perfekt in jedes moderne Bad. Die Stange ist aus hochwertigem Metall gefertigt und besticht durch ihr schlankes Design, das sich harmonisch in jede Raumatmosphäre einfügt.</p><p class=\"justify\">Ein wichtiger Vorteil dieser Duschstange ist die Flexibilität bei der Montage. Sie haben die Wahl zwischen zwei Befestigungsoptionen: Bohren oder Kleben. Wenn Sie sich für die Bohrmethode entscheiden, wird das benötigte Befestigungsmaterial für die Wandmontage mitgeliefert. Der Abstand zwischen den Bohrlöchern beträgt dabei 560 mm. Wenn Sie jedoch lieber eine Montage ohne Bohren bevorzugen, können Sie die Duschstange mit einem separat erhältlichen Spezial-Kleber befestigen. Diese Methode ist ideal für Mieter, die ihre Badezimmerwände nicht beschädigen möchten.</p><p class=\"justify\">Die AquaSu Duschstange Quintao verfügt über einen höhenverstellbaren Gleiter, der als Halterung für die Handbrause dient. So können Sie die Höhe der Brause ganz nach Ihren individuellen Bedürfnissen anpassen. Der Gleiter hat eine Breite von 110 mm und ermöglicht somit eine einfache und schnelle Anpassung der Brauseposition.</p><p class=\"justify\">Mit der AquaSu Duschstange Quintao erhalten Sie nicht nur ein optisch ansprechendes, sondern auch äußerst praktisches Zubehör für Ihr Bad. Die hochwertige Verarbeitung und das edle Chrom-Finish runden das Gesamtbild ab und garantieren lang anhaltende Freude an diesem Produkt. Die zahlreichen positiven Kundenbewertungen und die durchschnittliche 5-Sterne-Bewertung sprechen für die hohe Qualität und Zufriedenheit mit dieser Duschstange.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | günstig kaufen",
-    "defaultMetaDescription": "Die besten Produkte aus der Kategorie $KATEGORIE. Wir führen nur die besten Produkte und das zu einem Best-Preis. $KATEGORIE online bestellen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "8678849",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Wenko Wandhaken Universal Chrom 2er-Pack",
+                            "text": "<p class=\"justify\">Der Wenko Wandhaken Universal Chrom ist ein hochwertiger und praktischer Helfer für Ihr Zuhause. Dieses 2er-Pack ist ideal für diejenigen, die nach einer platzsparenden und dekorativen Lösung zum Aufhängen von Handtüchern, Bademänteln, Geschirrtüchern oder Topflappen in Bad, Gäste-WC und im gesamten Haushalt suchen. Hergestellt aus chromfarbenem Kunststoff, bieten diese Wandhaken eine langlebige und stilvolle Lösung für Ihre Bedürfnisse.</p><p class=\"justify\">Mit einer einfachen Anbringung sind diese Wandhaken kinderleicht zu installieren. Entfernen Sie einfach die Schutzfolie und bringen Sie den Haken an der gewünschten Stelle an. Diese selbstklebenden Wandhaken halten sicher auf glatten und festen Oberflächen und verleihen Ihrem Heim Eleganz und Funktionalität. Die Universalgenies können sowohl in der Küche als auch im Badezimmer verwendet werden und sind somit eine vielseitige Ergänzung für Ihren Haushalt.</p><p class=\"justify\">Die Marke Wenko ist bekannt für ihre Qualitätsprodukte für das Bad und den gesamten Haushalt. Mit über 154 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeugen zufriedene Kunden von der hohen Qualität und Langlebigkeit dieser Wandhaken. Das 2er-Pack Wenko Wandhaken Universal Chrom ist eine kostengünstige Lösung für alle, die eine praktische und stilvolle Möglichkeit zum Aufhängen ihrer Utensilien suchen.</p><p class=\"justify\">Mit einem Preis von nur 3,89 Euro ist dieses Wenko Wandhaken Universal Chrom 2er-Pack eine erschwingliche Lösung, um Ordnung und Stil in Ihrem Zuhause zu erhalten. Gönnen Sie sich diese hochwertigen Wandhaken und erleben Sie, wie einfach es ist, Ihre Handtücher, Kleidungsstücke und andere Gegenstände ordentlich und griffbereit aufzubewahren.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7774094",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Wenko Badschemel Secura Premium Anthrazit",
+                            "text": "<p class=\"justify\">Der Wenko Badschemel Secura Premium Anthrazit ist das perfekte Produkt zur Sicherheit im Bad. Hergestellt von der innovativen Marke Wenko, zeichnet sich dieser Badschemel durch seine Stabilität und Rutschfestigkeit aus. Er besteht aus stabilem Kunststoff und ist in der trendigen Farbe Anthrazit erhältlich, wodurch er sich in jedes Badezimmer stilvoll einfügt.</p><p class=\"justify\">Die rutschhemmende, strukturierte und große Trittfläche bietet eine hervorragende Standsicherheit, auch auf feuchten Böden. Die stylisch geformten Alu-Füße sind besonders stabil und rutschhemmend. Dank der großen Öffnung auf der Sitzfläche kann das Wasser problemlos abfließen, sodass auch die Hygiene gewährleistet ist.</p><p class=\"justify\">Der Wenko Badschemel Secura Premium Anthrazit ist nach den neuesten Vorschriften durch den TÜV getestet und TÜV/GS zertifiziert. Er ist zu 100 % rostfrei und bis zu 130 kg belastbar. Dies macht ihn zu einer idealen Lösung für alle Altersgruppen und Bedürfnisse.</p><p class=\"justify\">Die Marke Wenko ist bekannt für ihre innovativen Produkte im Bereich Bad, Küche und Wohnen. Ihre raffinierten und geschmackvollen Accessoires sind nicht nur praktisch, sondern auch ästhetisch ansprechend. Entdecken Sie die Vielfalt der cleveren und platzsparenden Einrichtungskollektionen von Wenko und richten Sie Ihren Wohnraum nach Ihren individuellen Wünschen ein.</p><p class=\"justify\">Bitte beachten Sie, dass abgebildete Armaturen oder Badaccessoires nicht im Lieferumfang des Wenko Badschemel Secura Premium Anthrazit enthalten sind. Genießen Sie die Kombination aus Funktionalität und Stil, indem Sie diesen hochwertigen Badschemel in Ihrem Badezimmer verwenden.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9862541",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "AquaSu Duschstange Quintao zum Kleben oder Bohren 60 cm Chrom",
+                            "text": "<p class=\"justify\">Die AquaSu Duschstange Quintao bringt Eleganz und Funktionalität in Ihr Badezimmer. Mit einer Länge von 60 cm und einer ansprechenden Chromoberfläche passt diese Duschstange perfekt in jedes moderne Bad. Die Stange ist aus hochwertigem Metall gefertigt und besticht durch ihr schlankes Design, das sich harmonisch in jede Raumatmosphäre einfügt.</p><p class=\"justify\">Ein wichtiger Vorteil dieser Duschstange ist die Flexibilität bei der Montage. Sie haben die Wahl zwischen zwei Befestigungsoptionen: Bohren oder Kleben. Wenn Sie sich für die Bohrmethode entscheiden, wird das benötigte Befestigungsmaterial für die Wandmontage mitgeliefert. Der Abstand zwischen den Bohrlöchern beträgt dabei 560 mm. Wenn Sie jedoch lieber eine Montage ohne Bohren bevorzugen, können Sie die Duschstange mit einem separat erhältlichen Spezial-Kleber befestigen. Diese Methode ist ideal für Mieter, die ihre Badezimmerwände nicht beschädigen möchten.</p><p class=\"justify\">Die AquaSu Duschstange Quintao verfügt über einen höhenverstellbaren Gleiter, der als Halterung für die Handbrause dient. So können Sie die Höhe der Brause ganz nach Ihren individuellen Bedürfnissen anpassen. Der Gleiter hat eine Breite von 110 mm und ermöglicht somit eine einfache und schnelle Anpassung der Brauseposition.</p><p class=\"justify\">Mit der AquaSu Duschstange Quintao erhalten Sie nicht nur ein optisch ansprechendes, sondern auch äußerst praktisches Zubehör für Ihr Bad. Die hochwertige Verarbeitung und das edle Chrom-Finish runden das Gesamtbild ab und garantieren lang anhaltende Freude an diesem Produkt. Die zahlreichen positiven Kundenbewertungen und die durchschnittliche 5-Sterne-Bewertung sprechen für die hohe Qualität und Zufriedenheit mit dieser Duschstange.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | günstig kaufen",
+        "defaultMetaDescription": "Die besten Produkte aus der Kategorie $KATEGORIE. Wir führen nur die besten Produkte und das zu einem Best-Preis. $KATEGORIE online bestellen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Shop",
+        "defaultMetaDescription": "$HERSTELLER ist die erste Markenwahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer von $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Badaccessoires",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Badaccessoires Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Badaccessoires Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Shop",
-    "defaultMetaDescription": "$HERSTELLER ist die erste Markenwahl für Badaccessoires. Wir bieten eine große Auswahl an hochwertigen Accessoires für Ihr Badezimmer von $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Badaccessoires",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Badaccessoires Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Badaccessoires Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
